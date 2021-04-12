@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-new text
+jibiri jibiiri
 Use the left arrow to go back!
